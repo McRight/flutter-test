@@ -2,4 +2,4 @@
 
 A new Flutter project for learning.
 
-Main code is in the .lib folder
+Main code is in the "lib" folder
